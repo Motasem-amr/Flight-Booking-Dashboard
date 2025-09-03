@@ -1,4 +1,5 @@
 Flight Booking Dashboard
+
 Overview
 
 A comprehensive analytics dashboard for flight booking data visualization and insights. This dashboard provides real-time monitoring of booking performance, conversion rates, and customer behavior patterns across multiple channels and trip types.
